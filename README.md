@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Deepak Kumar
 
-<!--
-**KUMAR0DEEPAK/KUMAR0DEEPAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  B.Tech Information Technology Student @ JSS Academy of Technical Education, Noida
+-  Aspiring Software Engineer | Java | DSA | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+### CURRENTLY
+-  Building AI-powered web applications
+-  Strengthening Data Structures & Algorithms
+-  Learning Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **ExamAI** – AI-powered note generation platform for exam preparation | [Live Demo](https://examai-g2el.onrender.com) | [GitHub](https://github.com/KUMAR0DEEPAK/ExamAI)
+- **StayNest** – Full-stack accommodation booking platform | [GitHub](https://github.com/KUMAR0DEEPAK/StayNest)
+
+### TECH STACK
+- Java • JavaScript • React • Node.js • Express.js
+- MongoDB • PostgreSQL • Git • GitHub • Postman
+
+### CONTACT
+-  Email: deepak.kumar.19818113@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/deepak-kumar-16b884376/
