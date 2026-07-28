@@ -11,7 +11,7 @@
 ## Featured Projects
 - **ExamAI** – AI-powered note generation platform for exam preparation | [Live Demo](https://examai-g2el.onrender.com) | [GitHub](https://github.com/KUMAR0DEEPAK/ExamAI)
 - **StayNest** – Full-stack accommodation booking platform | [GitHub](https://github.com/KUMAR0DEEPAK/StayNest)
-- **Travel-Tracker** – Full-stack travel tracker with interactive world map and trip logging.| [Live Demo](https://travel-tracker-zt1o.onrender.com) | [GitHub](https://github.com/KUMAR0DEEPAK/StayNest)
+- **Travel-Tracker** – Full-stack travel tracker with interactive world map and trip logging.| [Live Demo](https://travel-tracker-zt1o.onrender.com) | [GitHub](https://github.com/KUMAR0DEEPAK/Travel-Tracker)
 
 ### TECH STACK
 - Java • JavaScript • React • Node.js • Express.js
