@@ -18,5 +18,5 @@
 - MongoDB • PostgreSQL • Git • GitHub • Postman
 
 ### CONTACT
--  Email: deepak.kumar.19818113@gmail.com
+-  Email: deepakkumar32906@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/deepak-kumar-16b884376/
